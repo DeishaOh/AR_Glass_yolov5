@@ -6,6 +6,9 @@
     파라미터는 단일 gpu에서는 --evolve가 효과적이다
     다중/병렬 gpu에서는 data 폴더의 hyps를 추가하자
     
+    yolov5 내의 증강을 사용할 땐 epoch을 300은 돌려야
+    유의미한 결과를 얻을 수 있다
+    
     evolve hyperparameters에 대해 공부하면 
     어디가서 말은 꺼내볼 수 있을 것이다
     
