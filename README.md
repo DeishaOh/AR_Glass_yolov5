@@ -4,6 +4,7 @@
     이미지 증강을 위해 사용한 코드
     aug는 단순 회전 및 flip만 실행
     affine는 imgaug 패키지를 사용
+    (https://aiclaudev.tistory.com/30)
     
 - img_rename
     파일들의 이름을 통일시키기 위해 사용
